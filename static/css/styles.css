@@ -1,0 +1,197 @@
+body {
+  height: 100%;
+  background: url('../images/bg3-dark(2).jpg') rgb(255, 255, 255);
+  background-size: auto auto;
+  background-position: left top;
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  position: relative;
+  float: left;
+  z-index: 4;
+  width: 47.25%;
+  height: 1045px;
+  margin: 118px 0 0 26.83073%;
+  border-radius: 20px;
+  background-color: rgba(254, 249, 249, 0.98);
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  color: rgb(0, 0, 0);
+}
+
+.image-1 {
+  width: 600px;
+  margin: 58px 0 0 25.2487%;
+}
+
+.image-2 {
+  position: relative;
+  z-index: 6;
+  width: 166px;
+  margin: -935px 0 0 28.16667%;
+}
+
+.image-3 {
+  position: relative;
+  z-index: 7;
+  width: 166px;
+  margin: -934px 0 0 43.4987%;
+}
+
+.image-4 {
+  position: relative;
+  z-index: 8;
+  width: 166px;
+  margin: -933px 0 0 58.91667%;
+}
+
+.text-1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 5.5%;
+  height: 6px;
+  min-height: 39px;
+  margin: 6px 0 0 41.61328%;
+  font-size: 0.375em;
+}
+
+.text-2 {
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 6%;
+  height: 6px;
+  min-height: 39px;
+  margin: 6px 0 0 1.41667%;
+  font-size: 0.375em;
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 3;
+  width: 6%;
+  height: 6px;
+  min-height: 39px;
+  margin: -39px 0 0 53.1888%;
+  font-size: 0.375em;
+}
+
+.text-4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 5;
+  width: 45.9166666666%;
+  min-height: 63px;
+  margin: -1026px 0 0 27.58073%;
+  border-bottom: 1px solid rgb(182, 179, 179);
+  background-image: none;
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-5 {
+  position: relative;
+  float: left;
+  z-index: 9;
+  width: 42.4%;
+  min-height: 674px;
+  margin: -742px 0 0 28.79948%;
+  font-size: 1em;
+}
+
+.text-6 {
+  position: absolute;
+  top: 1379px;
+  left: 38.8333333333%;
+  z-index: 10;
+  width: 22.1666666666%;
+  min-height: 32px;
+  font-size: 1em;
+}
+
+.text em {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 3.833em;
+  font-weight: inherit;
+  text-transform: none;
+  text-decoration: underline;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(222, 222, 222);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text em:hover {
+  font-size: NaNem;
+  color: rgb(149, 147, 147);
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text-4 span {
+  font-size: 2.25em;
+  color: rgb(26, 238, 133);
+}
+
+.text-5 span {
+  font-size: 1.375em;
+  color: inherit;
+}
+
+.text-6 span {
+  font-size: 1.625em;
+  color: rgb(252, 247, 247);
+}
